@@ -1,0 +1,104 @@
+.header{
+    background-color: #1D1D1F;
+    height: 45px;
+    
+}
+.card1{
+    background-image: url("images/hero_iphone15pro__i70z9oz3hj2i_small.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    height: 610px;  
+}
+.card2{
+    background-image: url("images/hero_iphone15_announce__uuemlcwczn6u_mediumtall_2x.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    height: 610px;
+}
+.card3{
+    background-image: url("images/portrait_base__bwsgtdddcl7m_small-removebg-preview.png");
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+    background-position: center;
+    width: 100%;
+    height: 610px;
+}
+    
+
+.ow{
+    margin-top: 400px;
+}
+.card4{
+    background-image: url("images/promo_apple_watch_series_9_order__b3u85rm9zf6u_small.jpg");
+    background-position: center;
+    /* width: 50%; */
+    height: 550px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+
+
+}
+
+.dan{
+    color: red;
+}
+
+.card5{
+    background-image: url("images/promo_mbp__ek7p477bkp6q_small.jpg");
+    background-position: center;
+    /* width: 50%; */
+    height: 550px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+
+
+}
+
+.card6{
+    background-image: url("images/promo_ipad__fioegapg12qi_small.jpg");
+    background-position: center;
+    /* width: 50%; */
+    height: 550px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+
+
+}
+
+.card7{
+    background-image: url("images/promo_airpods_pro_order__d8xv36p4uwae_small.jpg");
+    background-position: center;
+    /* width: 50%; */
+    height: 550px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+
+
+}
+
+.card8{
+    background-image: url("images/tile__cauwwcyyn9hy_small.jpg");
+    background-position: center;
+    /* width: 50%; */
+    height: 550px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+
+
+}
+
+.card9{
+    background-image: url("images/promo_iphone_tradein__bugw15ka691e_small.jpg");
+    background-position: center;
+    /* width: 50%; */
+    height: 550px;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+
+
+}
+
